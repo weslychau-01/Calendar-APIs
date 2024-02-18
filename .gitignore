@@ -6,9 +6,9 @@ build
 
 # ignore tokens and credentials
 # wesly
-app/src/main/resources/cs206-schedease-c8d9ed0677a2.json
+app/src/main/resources/cs206-g1t3-schedease-service_account.json
 app/src/main/resources/credentials.json
-app/build/resources/cs206-schedease-c8d9ed0677a2.json
+app/build/resources/cs206-g1t3-schedease-service_account.json
 app/build/resources/credentials.json
 app/tokens/StoredCredential
 
