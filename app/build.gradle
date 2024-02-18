@@ -33,7 +33,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'calendar.apis.App'
+    mainClass = 'calendar.apis.Callback'
 }
 
 tasks.named('test') {
